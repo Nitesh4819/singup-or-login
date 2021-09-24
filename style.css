@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+background-color: #EAE9E5;
+scroll-behavior: smooth;    
+}
+
+.login{
+
+    background-color: #fff;
+    position: relative;
+    top:130px;
+    padding: 30px;
+}
+
+.inp{
+
+    border-radius: 30px;
+    
+}
+.form_btn{
+
+background-color: #fb641b;
+color:#fff;
+width: 100%;
+
+}
+/* singup css */
+
+
+.container{
+
+    color: green;
+    padding-left: 100px ;
+    /* box-sizing: border-box; */
+    
+}
+
+.form{
+
+    background-color: lightgreen;
+}
